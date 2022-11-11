@@ -1,0 +1,30 @@
+<html>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Receita de Brownie</title>
+    </head>
+    <body>
+        <h1> Igredientes</h1>
+        <ul> 
+            <li>6 colheres de sopa cheia de margarina;</li>
+            <li> 3/4 de xícara de achocolatado picado;</li>
+            <li> 2 xícaras de chocolate em pó;</li>
+            <li> 1 xícara de farinha de trigo;</li>
+            <li> 2 xícaras de açúcar;</li>
+            <li> 4 ovos</li>
+        </ul>
+        <h2> Modo de preparo</h2>
+        <ul>
+            <li> Misture os ovos e o açúcar;</li>
+            <li> Em seguida, coloque os outros igredientes até formar um creme;</li>
+            <li> Despeje em um recipiente forrado com papel manteiga, leve ao
+                forno a 180 graus em 40 minutos;</li>
+            <li> Pegue o chocolate picado e despeje sobre o brownie;</li>
+        </ul>
+        <img id="brownie" src="image.png"
+    </body>
+    </html>
