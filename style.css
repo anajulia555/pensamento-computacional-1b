@@ -1,45 +1,33 @@
 body{
     text-align: center;
-    background-color: #E1C603;
+    background-color: #d6e3ff;
 
 }
-#Id
-<!---
-PARA CRIAR A ID USA #NOME DE IDENTIFICAÇÃO DA IMAGEM
---->
+#Daniella
 
 {
-    width: 100%;
-  <!---
-quando utilizamos width : 100% deixamos a imagem escolhida com 100% de largura da tela, independente do tamanho da tela
---->
+    width: 30%;
+}
+
+#imagem2{
+  
 }
 
 h1{
+
+
   height: 150px;
-  <!---
-define a altura do título principal
---->
-    color: #C308A7;
+  
+    color: #001A53;
         
-  <!---
-define a cor do título principal
---->
-  background-color:  #EDC100;
- <!---
-define a cor de fundo do título principal
---->
+  background-color:  #7a9be0;
+ 
   font-size: 80px;
-   <!---
-define a altura do título principal
---->
-  font-style: italic;
+ 
+  font-style: negrito;
  
 }
 h2{
-    Color:   #D02C0F
- <!---
-define a cor do segundo título
---->
+    Color:   #000
 }
 Footer
